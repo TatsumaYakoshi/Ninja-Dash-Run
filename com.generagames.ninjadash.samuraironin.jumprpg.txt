@@ -1,0 +1,47 @@
+[BEGIN]
+
+Ninja Dash Patch:
+
+(Requires ROOT)
+
+Load game at least once before Patching
+
+Features:
+
+Max Level
+
+Max Currencies
+
+
+-Made by TatsumaYakoshi
+
+
+https://YouTube.com/TatsumaYakoshi
+
+https://Instagram.com/TatsumaYakoshi
+
+[SHARED-PREFERENCES]
+
+{"file_name":"Cocos2dxPrefsFile.xml"}
+
+{"insert":"int"}
+{"pref_name":"PLAYERDATA_XP"}
+{"value":"999999999"}
+
+{"insert":"int"}
+{"pref_name":"PLAYERDATA_TOURNAMENT_CURRENCY"}
+{"value":"999999999"}
+
+{"insert":"int"}
+{"pref_name":"PLAYERDATA_MAIN CURRENCY"}
+{"value":"999999999"}
+
+{"insert":"int"}
+{"pref_name":"PLAYERDATA_HARD_CURRENCY"}
+{"value":"999999999"}
+
+{"insert":"int"}
+{"pref_name":"PLAYERDATA_MAIN_CURRENCY"}
+{"value":"999999999"}
+
+[END]
